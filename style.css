@@ -1,0 +1,50 @@
+
+
+h1 {
+    font-size:200%;
+}
+
+body {
+    font-family: Helvetica;
+    background-color: #f2f2f2;
+}
+
+
+h2 {
+    margin: 10px;
+}
+
+.text-box{
+    margin:auto;
+    width:50%;
+    background-color: #fff;
+    border: 8px solid #666;
+}
+
+.main{
+    text-align: center;
+    color: #294860;;
+}
+
+.landing-image{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.footer {
+    text-transform: uppercase;
+}
+
+.links {
+    display: inline-block;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.trademark {
+    vertical-align: baseline;
+    color: #999;
+}
+
